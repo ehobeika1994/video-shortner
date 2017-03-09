@@ -3,16 +3,16 @@
   <Role name="Thumbnails_WebRole">
     <Instances count="1" />
     <ConfigurationSettings>
-      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
-      <Setting name="StorageConnectionString" value="UseDevelopmentStorage=true" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=ehobeivideostorage1;AccountKey=9c+/Ipkkn6socY8RFu8i/DKvEi4hde+NLpJ8Wl5QAePDRQDWTymVbYXWyGfdrg3c6U8/85nKfH3HY0qr2be1Xw==" />
+      <Setting name="StorageConnectionString" value="DefaultEndpointsProtocol=https;AccountName=ehobeivideostorage1;AccountKey=9c+/Ipkkn6socY8RFu8i/DKvEi4hde+NLpJ8Wl5QAePDRQDWTymVbYXWyGfdrg3c6U8/85nKfH3HY0qr2be1Xw==" />
       <Setting name="APPINSIGHTS_INSTRUMENTATIONKEY" value="d231dc36-bcab-4aa0-8cff-7499da986237" />
     </ConfigurationSettings>
   </Role>
   <Role name="Thumbnails_WorkerRole">
     <Instances count="1" />
     <ConfigurationSettings>
-      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
-      <Setting name="StorageConnectionString" value="UseDevelopmentStorage=true" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=ehobeivideostorage1;AccountKey=9c+/Ipkkn6socY8RFu8i/DKvEi4hde+NLpJ8Wl5QAePDRQDWTymVbYXWyGfdrg3c6U8/85nKfH3HY0qr2be1Xw==" />
+      <Setting name="StorageConnectionString" value="DefaultEndpointsProtocol=https;AccountName=ehobeivideostorage1;AccountKey=9c+/Ipkkn6socY8RFu8i/DKvEi4hde+NLpJ8Wl5QAePDRQDWTymVbYXWyGfdrg3c6U8/85nKfH3HY0qr2be1Xw==" />
       <Setting name="APPINSIGHTS_INSTRUMENTATIONKEY" value="d231dc36-bcab-4aa0-8cff-7499da986237" />
     </ConfigurationSettings>
   </Role>
